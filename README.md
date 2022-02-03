@@ -1,4 +1,5 @@
-# vmestokonfet
+<h1 align="center">VMESTOKONFET</h1>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+
 ``` django project for sister`s business ```
 
 ## Первый проект, разработанный для реального бизнеса
