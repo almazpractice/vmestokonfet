@@ -26,5 +26,5 @@ _ассортимент разнообразный - от тыквы и морк
     ``` pip3 install -r requirements.txt``` (MacOS)
 
 ### авторы:
-Гимаев Алмаз _backend_ 
-Банная Дарья _frontend_
+- Гимаев Алмаз _backend_ 
+- Банная Дарья _frontend_
