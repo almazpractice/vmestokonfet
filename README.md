@@ -1,5 +1,6 @@
 <h1 align="center">VMESTOKONFET</h1>
 <a href="https://instagram.com/vmestokonfet.by?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 ``` django project for sister`s business ```
 
 ## Первый проект, разработанный для реального бизнеса
@@ -26,6 +27,6 @@ _ассортимент разнообразный - от тыквы и морк
     ``` pip install -r requirements.txt``` (Windows)
     ``` pip3 install -r requirements.txt``` (MacOS)
 
-### авторы:
+### Авторы:
 - Гимаев Алмаз _backend_ 
 - Банная Дарья _frontend_
